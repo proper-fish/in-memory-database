@@ -1,3 +1,5 @@
+# the class w/ all of employee attributes
+
 class Employee:
     def __init__(self, db_id, first_name, last_name, age, birthday, position, start_date, email):
         self.id = db_id

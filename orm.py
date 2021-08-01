@@ -1,3 +1,5 @@
+# the class that represents ORM containing all the necessary methods
+
 from employee import Employee
 from database import db
 from datetime import date
